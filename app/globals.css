@@ -3,3 +3,9 @@
 @tailwind utilities;
 
 
+.banner-image {
+    background-image: url('../public/assets/images/banner.jpg')
+}
+
+
+
